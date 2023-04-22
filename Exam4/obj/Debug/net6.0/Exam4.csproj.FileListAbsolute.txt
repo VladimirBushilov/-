@@ -1,0 +1,15 @@
+/Users/anastasiaten/Desktop/обучение Вова/С# семинар/Exam4/obj/Debug/net6.0/Exam4.csproj.AssemblyReference.cache
+/Users/anastasiaten/Desktop/обучение Вова/С# семинар/Exam4/obj/Debug/net6.0/Exam4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaten/Desktop/обучение Вова/С# семинар/Exam4/obj/Debug/net6.0/Exam4.AssemblyInfoInputs.cache
+/Users/anastasiaten/Desktop/обучение Вова/С# семинар/Exam4/obj/Debug/net6.0/Exam4.AssemblyInfo.cs
+/Users/anastasiaten/Desktop/обучение Вова/С# семинар/Exam4/obj/Debug/net6.0/Exam4.csproj.CoreCompileInputs.cache
+/Users/anastasiaten/Desktop/обучение Вова/С# семинар/Exam4/bin/Debug/net6.0/Exam4
+/Users/anastasiaten/Desktop/обучение Вова/С# семинар/Exam4/bin/Debug/net6.0/Exam4.deps.json
+/Users/anastasiaten/Desktop/обучение Вова/С# семинар/Exam4/bin/Debug/net6.0/Exam4.runtimeconfig.json
+/Users/anastasiaten/Desktop/обучение Вова/С# семинар/Exam4/bin/Debug/net6.0/Exam4.dll
+/Users/anastasiaten/Desktop/обучение Вова/С# семинар/Exam4/bin/Debug/net6.0/Exam4.pdb
+/Users/anastasiaten/Desktop/обучение Вова/С# семинар/Exam4/obj/Debug/net6.0/Exam4.dll
+/Users/anastasiaten/Desktop/обучение Вова/С# семинар/Exam4/obj/Debug/net6.0/refint/Exam4.dll
+/Users/anastasiaten/Desktop/обучение Вова/С# семинар/Exam4/obj/Debug/net6.0/Exam4.pdb
+/Users/anastasiaten/Desktop/обучение Вова/С# семинар/Exam4/obj/Debug/net6.0/Exam4.genruntimeconfig.cache
+/Users/anastasiaten/Desktop/обучение Вова/С# семинар/Exam4/obj/Debug/net6.0/ref/Exam4.dll
